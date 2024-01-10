@@ -1,0 +1,12 @@
+C:\LAB2 MAGWA\Lab2.CommonModules\bin\Debug\net6.0\Lab2.CommonModules.deps.json
+C:\LAB2 MAGWA\Lab2.CommonModules\bin\Debug\net6.0\Lab2.CommonModules.dll
+C:\LAB2 MAGWA\Lab2.CommonModules\bin\Debug\net6.0\Lab2.CommonModules.pdb
+C:\LAB2 MAGWA\Lab2.CommonModules\obj\Debug\net6.0\Lab2.CommonModules.csproj.AssemblyReference.cache
+C:\LAB2 MAGWA\Lab2.CommonModules\obj\Debug\net6.0\Lab2.CommonModules.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB2 MAGWA\Lab2.CommonModules\obj\Debug\net6.0\Lab2.CommonModules.AssemblyInfoInputs.cache
+C:\LAB2 MAGWA\Lab2.CommonModules\obj\Debug\net6.0\Lab2.CommonModules.AssemblyInfo.cs
+C:\LAB2 MAGWA\Lab2.CommonModules\obj\Debug\net6.0\Lab2.CommonModules.csproj.CoreCompileInputs.cache
+C:\LAB2 MAGWA\Lab2.CommonModules\obj\Debug\net6.0\Lab2.CommonModules.dll
+C:\LAB2 MAGWA\Lab2.CommonModules\obj\Debug\net6.0\refint\Lab2.CommonModules.dll
+C:\LAB2 MAGWA\Lab2.CommonModules\obj\Debug\net6.0\Lab2.CommonModules.pdb
+C:\LAB2 MAGWA\Lab2.CommonModules\obj\Debug\net6.0\ref\Lab2.CommonModules.dll

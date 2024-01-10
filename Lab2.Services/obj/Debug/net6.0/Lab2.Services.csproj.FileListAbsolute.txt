@@ -1,0 +1,15 @@
+C:\LAB2 MAGWA\Lab2.Services\bin\Debug\net6.0\Lab2.Services.deps.json
+C:\LAB2 MAGWA\Lab2.Services\bin\Debug\net6.0\Lab2.Services.dll
+C:\LAB2 MAGWA\Lab2.Services\bin\Debug\net6.0\Lab2.Services.pdb
+C:\LAB2 MAGWA\Lab2.Services\obj\Debug\net6.0\Lab2.Services.csproj.AssemblyReference.cache
+C:\LAB2 MAGWA\Lab2.Services\obj\Debug\net6.0\Lab2.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB2 MAGWA\Lab2.Services\obj\Debug\net6.0\Lab2.Services.AssemblyInfoInputs.cache
+C:\LAB2 MAGWA\Lab2.Services\obj\Debug\net6.0\Lab2.Services.AssemblyInfo.cs
+C:\LAB2 MAGWA\Lab2.Services\obj\Debug\net6.0\Lab2.Services.csproj.CoreCompileInputs.cache
+C:\LAB2 MAGWA\Lab2.Services\obj\Debug\net6.0\Lab2.Services.dll
+C:\LAB2 MAGWA\Lab2.Services\obj\Debug\net6.0\refint\Lab2.Services.dll
+C:\LAB2 MAGWA\Lab2.Services\obj\Debug\net6.0\Lab2.Services.pdb
+C:\LAB2 MAGWA\Lab2.Services\obj\Debug\net6.0\ref\Lab2.Services.dll
+C:\LAB2 MAGWA\Lab2.Services\bin\Debug\net6.0\Lab2.CommonModules.dll
+C:\LAB2 MAGWA\Lab2.Services\bin\Debug\net6.0\Lab2.CommonModules.pdb
+C:\LAB2 MAGWA\Lab2.Services\obj\Debug\net6.0\Lab2.Services.csproj.CopyComplete
